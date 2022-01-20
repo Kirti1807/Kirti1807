@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Kirti Goyal, a fresher at IIIT Lucknow, India
+- 👋 Hi, I’m Kirti Goyal, a sophomore at IIIT Lucknow, India
 - 👀 I’m interested in Machine learning and Artificial Intelligence , Competative Programing. 
 - 🌱 I’m currently learning  Python and C++.
 - 📫 You can reach me by
-       linkdin  https://www.linkedin.com/in/kirti-goyal-1809ba204
-       Gmail    LCI2020039@iiitl.ac.in
+       [LinkedIn](https://www.linkedin.com/in/kirti-goyal-1809ba204)
+      
   
 
 <!---
