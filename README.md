@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kirti Goyal, a sophomore at IIIT Lucknow, India
+- 👋 Hi, I’m Kirti Goyal, a pre final year student at IIIT Lucknow, India
 - 👀 I’m interested in Machine learning and Artificial Intelligence , Competative Programing. 
 - 🌱 I’m currently learning  Python and C++.
 - 📫 You can reach me by
